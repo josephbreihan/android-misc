@@ -7,10 +7,14 @@ Cross-compiling
 
 Keyboard Layouts
 ----------------
-* Vendor_0065_Product_8502.kl - HP Touchpad Wireless Bluetooth Keyboard (US English qwerty layout).
+US English QWERTY:
+* Vendor_0065_Product_8502.kl - HP Touchpad Wireless Bluetooth Keyboard
 
-* Vendor_0065_Product_8502_dvorak.kl - Ditto, but for the cool kids (Dvorak layout).
+Dvorak:
+* Vendor_0065_Product_8502_dvorak.kl - HP Touchpad Wireless Bluetooth Keyboard
+* Vendor_05ac_Product_0239_dvorak.kl - Apple Wireless Bluetooth Keyboard
+* Vendor_22b8_Product_093d_dvorak.kl - Motorola Xoom Bluetooth Keyboard
 
-Tested with Honeycomb 3.2 on the Motorola Xoom.  There are currently 3 function keys not working (Virtual Keyboard button and Brightness controls).  The mute button also is not currently muting audio (although it does get recognized by the system).  I'm looking into this.
+The HP Touchpad Wireless Bluetooth keyboard layouts have been tested with Honeycomb 3.2 on the Motorola Xoom.  There are currently 3 function keys not working (Virtual Keyboard button and Brightness controls).  The mute button also is not currently muting audio (although it does get recognized by the system).  I'm looking into this.
 
-The upper left key is mapped to Escape as it seems to have the same behaviour as sending "BACK" but with the added benefit of working in vim inside most terminal emulators.
+In these keylayout files, I've mapped the he upper left key to "Escape" as it seems to have the same behaviour as sending "Back" but with the added benefit of working in vi inside most terminal emulators.

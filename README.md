@@ -5,6 +5,10 @@ Cross-compiling
 ---------------
 * agcc.pl - revision of Andrew Ross' script updated to work with NDK version r6b.  Preconfigured to build binaries for the NVIDIA Tegra 2.
 
+I added the following to my path:
+
+     /opt/android-ndk/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin:/opt/android-ndk/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/arm-linux-androideabi/bin
+
 Keyboard Layouts
 ----------------
 US English QWERTY:

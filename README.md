@@ -8,9 +8,11 @@ Cross-compiling
 Keyboard Layouts
 ----------------
 US English QWERTY:
+
 * Vendor_0065_Product_8502.kl - HP Touchpad Wireless Bluetooth Keyboard
 
 Dvorak:
+
 * Vendor_0065_Product_8502_dvorak.kl - HP Touchpad Wireless Bluetooth Keyboard
 * Vendor_05ac_Product_0239_dvorak.kl - Apple Wireless Bluetooth Keyboard
 * Vendor_22b8_Product_093d_dvorak.kl - Motorola Xoom Bluetooth Keyboard
